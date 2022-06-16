@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by session and topic,
+  information on the course textbook, and citations and links to additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -154,7 +156,7 @@ Bargaining
 {{< tdopen >}}
 
 
-Michaels, Daniel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Dogfight: In the Secret World of Airplane Deals, One Battle Up Close—Boeing, Airbus Vied to Meet Cutthroat Terms of Iberia; Strong Carriers Call Shots—Dangling the Used Car Option," (PDF)](https://maxionline.files.wordpress.com/2010/09/dogfight_boeing-airbus-iberia.pdf) _Wall Street Journal_, March 10, 2003.
+Michaels, Daniel. ["Dogfight: In the Secret World of Airplane Deals, One Battle Up Close—Boeing, Airbus Vied to Meet Cutthroat Terms of Iberia; Strong Carriers Call Shots—Dangling the Used Car Option," (PDF)](https://maxionline.files.wordpress.com/2010/09/dogfight_boeing-airbus-iberia.pdf) _Wall Street Journal_, March 10, 2003.
 
 Brandenburger, and Nalebuff. Chapter 4 in _Co-opetition_. Doubleday Business, 1996, pp. 71–91. ISBN: 9780385479493.
 

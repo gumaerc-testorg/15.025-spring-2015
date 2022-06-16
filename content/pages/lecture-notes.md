@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the lecture
+  notes for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Introduction (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_1)
+{{% resource_link 73809705-6325-6ca9-8dea-7700ed7d7c9a "Lecture 1: Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Introduction
 Rationality
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Rationality (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_2)
+{{% resource_link 7f1762a8-21f6-3668-3650-8b79e46f3196 "Lecture 2: Rationality (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Rationality
 Nash Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3: Nash Equillibrium (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_3)
+{{% resource_link b0ed35c5-ec58-1c90-63a5-61e1ef9efb51 "Lecture 3: Nash Equillibrium (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Nash Equilibrium
 (Un)predictable Outcomes
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4: (Un)predictable Outcomes (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_4)
+{{% resource_link a34e6307-695a-dc83-f3c2-fa89582d30f4 "Lecture 4: (Un)predictable Outcomes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +103,7 @@ Notes not available for this session
 Designing Games and Influencing Outcomes
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Designing Games and Influencing Outcomes (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_6)
+{{% resource_link 4723ac99-d641-c7ad-909c-3f3c6d303998 "Lecture 6: Designing Games and Influencing Outcomes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +115,7 @@ Designing Games and Influencing Outcomes
 Backward Induction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: Backward Induction (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_7)
+{{% resource_link a3c771fd-9d5a-8036-1075-5e2446176b69 "Lecture 7: Backward Induction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +127,7 @@ Backward Induction
 Bargaining
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Bargaining (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_8)
+{{% resource_link d057488c-9ec4-3444-e413-d53789f3456b "Lecture 8: Bargaining (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +139,7 @@ Bargaining
 Wars of Attrition
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Wars of Attrition (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_9)
+{{% resource_link fbcf7b26-b641-fc9f-77a3-1e94691871f4 "Lecture 9: Wars of Attrition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +163,7 @@ Notes not available for this session
 Dynamic Price Competition
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11: Dynamic Price Competition (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_11)
+{{% resource_link 13cc1a07-62e5-c808-03b0-e71551f3e4d2 "Lecture 11: Dynamic Price Competition (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +175,7 @@ Dynamic Price Competition
 Introduction to Repeated Interaction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: Introduction to Repeated Interaction (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_12)
+{{% resource_link 32979353-6526-ace8-a221-f113b4a5c20a "Lecture 12: Introduction to Repeated Interaction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +187,7 @@ Introduction to Repeated Interaction
 Long-run Relationships
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13: Long-run Relationships (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_13)
+{{% resource_link 92d4bc98-b920-ac2b-e8ce-18741c2d8fa6 "Lecture 13: Long-run Relationships (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +199,7 @@ Long-run Relationships
 Application: Tacit Coordination
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14: Application: Tacit Coordination (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_14)
+{{% resource_link 917ae203-e54a-b566-f8ed-408bda26c018 "Lecture 14: Application: Tacit Coordination (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +211,7 @@ Application: Tacit Coordination
 Games with Asymmetric Information
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15: Games with Asymmetric Information (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_15)
+{{% resource_link fd594c22-e018-ab26-9a8f-e5aec569b092 "Lecture 15: Games with Asymmetric Information (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +223,7 @@ Games with Asymmetric Information
 Introduction to Auctions
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16: Introduction to Auctions (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_16)
+{{% resource_link dceb7604-6c7e-0d5f-b3f5-a150adf7fac0 "Lecture 16: Introduction to Auctions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +235,7 @@ Introduction to Auctions
 Online Auctions
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17: Online Auctions (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_17)
+{{% resource_link f43c6dc4-4f28-521d-c4c9-02ff13b8b401 "Lecture 17: Online Auctions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +247,7 @@ Online Auctions
 Designing Auctions and Other Markets
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18: Designing Auctions and Other Markets (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_18)
+{{% resource_link 29684091-bcd0-6db6-705e-4ee5c2095792 "Lecture 18: Designing Auctions and Other Markets (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -257,7 +259,7 @@ Designing Auctions and Other Markets
 Costly Signaling vs. Cheap Talk
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19: Costly Signaling vs. Cheap Talk (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_19)
+{{% resource_link c7de229f-fadd-7fb5-dfe1-d01b52f8ea48 "Lecture 19: Costly Signaling vs. Cheap Talk (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,7 +271,7 @@ Costly Signaling vs. Cheap Talk
 Credibility and Reputation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20: Credibility and Reputation (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_20)
+{{% resource_link 475801f0-04a0-3ff1-42ad-864d723466f6 "Lecture 20: Credibility and Reputation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -281,7 +283,7 @@ Credibility and Reputation
 Application: Cold War Politics
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21: Application: Cold War Politics (PDF)]({{< baseurl >}}/resources/mit15_025s15_lec_21)
+{{% resource_link 3fc944c6-d43a-a1fc-a0fc-11f5e0f30b1e "Lecture 21: Application: Cold War Politics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
