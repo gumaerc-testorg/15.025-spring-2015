@@ -6,6 +6,7 @@ file: /courses/15-025-game-theory-for-strategic-advantage-spring-2015/006442050a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Problem Set 1 Solutions: Location Game; Penalty Shots; Splitting the Dol
 uid: 00644205-0ab8-5298-7bdf-b3b4056d1735
 ---
 This is a resource file that contains information regarding problem set 1 solutions.
-

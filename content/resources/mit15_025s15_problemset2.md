@@ -6,6 +6,7 @@ file: /courses/15-025-game-theory-for-strategic-advantage-spring-2015/563af93364
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Problem Set 2: Preemptive Investment; Audition Game \u2013 15.025 Game T
 uid: 563af933-64cd-8235-ab74-ed113d0f7f77
 ---
 This is a resource file that contains information regarding problem set 2.
-
