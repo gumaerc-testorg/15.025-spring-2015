@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, solutions,
+  information on the team project, and an excerpt on MIT Sloan academic standards.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 627f0d6f-db4d-94fa-6d49-2b8471a45241
 ---
@@ -22,19 +27,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1: Location Game; Penalty Shots; Splitting the Dollar (PDF)]({{< baseurl >}}/resources/mit15_025s15_problemset1)
+{{% resource_link 3e0fdeab-159b-3e4f-9be6-6c95a2755d56 "Problem Set 1: Location Game; Penalty Shots; Splitting the Dollar (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 Solutions: Location Game; Penalty Shots; Splitting the Dollar Solution (PDF)]({{< baseurl >}}/resources/mit15_025s15_problem1sol)
+{{% resource_link 00644205-0ab8-5298-7bdf-b3b4056d1735 "Problem Set 1 Solutions: Location Game; Penalty Shots; Splitting the Dollar Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2: Preemptive Investment; Audition Game (PDF)]({{< baseurl >}}/resources/mit15_025s15_problemset2)
+{{% resource_link 563af933-64cd-8235-ab74-ed113d0f7f77 "Problem Set 2: Preemptive Investment; Audition Game (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 2 Solutions: Preemptive Investment; Audition Game (PDF)]({{< baseurl >}}/resources/mit15_025s15_problem2sol)
+{{% resource_link bfa6ac85-9f83-fd85-62ea-aedbd31852ef "Problem Set 2 Solutions: Preemptive Investment; Audition Game (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

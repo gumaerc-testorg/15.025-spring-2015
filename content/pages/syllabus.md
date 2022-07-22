@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, teaching approach, the course plan, assignments and grading,
+  class participation, and the team project.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c7ad1031-d383-d831-9d5b-6df6ef94c9de
 ---
@@ -55,7 +60,7 @@ Exemplary team projects will be presented and discussed in the final week (Class
 Readings
 --------
 
-There is no required textbook for the course. Required and supplementary readings are listed in the **[Readings]({{< baseurl >}}/pages/readings)** section. For further reading, the following text is a good source (note that earlier editions would work fine):
+There is no required textbook for the course. Required and supplementary readings are listed in the **{{% resource_link 1efc3b44-0c27-94d3-699d-b1423d873a89 "Readings" %}}** section. For further reading, the following text is a good source (note that earlier editions would work fine):
 
 Dixit, Avinash, Susan Skeath, and David Reiley. _Games of Strategy_. 3rd ed. W. W. Norton & Company, 2009. ISBN: 9780393931129.
 
@@ -123,6 +128,6 @@ The class participation grade is equally determined by the following factors.
 Team Project
 ------------
 
-Your team must provide strategic advice to a player of a "real-world" game. (You need not gather actual data. It suffices to consider a hypothetical scenario that could be real.) Team project deliverables include an initial proposal and final project with an appendix. See the [**Assignments**]({{< baseurl >}}/pages/assignments) section for additional details.
+Your team must provide strategic advice to a player of a "real-world" game. (You need not gather actual data. It suffices to consider a hypothetical scenario that could be real.) Team project deliverables include an initial proposal and final project with an appendix. See the {{% resource_link 627f0d6f-db4d-94fa-6d49-2b8471a45241 "**Assignments**" %}} section for additional details.
 
 **Timeline**: The team project has the following parts: (i) team formation by Session 5, (ii) project proposal by Session 10, (iii) project progress report by Session 21, and (iv) final project on Session 23. A progress report (which is not graded) is due in Session 21 because some projects will be selected for in-class presentations during Sessions 22 and 23.
