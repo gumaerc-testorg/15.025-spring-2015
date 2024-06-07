@@ -2,13 +2,13 @@
 content_type: page
 description: This section provides insights and information about the course from
   the instructors.
+draft: true
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 98d74a70-155c-903d-0784-117ce7ef0e85
 ---
-
 OPTIONAL SECTION: This section will be included only if faculty responds to the survey questions below via email or in-person interview.
 
 **Course Outcomes for Learners**
