@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding problem set
   1.
-file: /ol-ocw-studio-app/courses/15-025-game-theory-for-strategic-advantage-spring-2015/3e0fdeab159b3e4f9be66c95a2755d56_MIT15_025S15_ProblemSet1.pdf
+file: /courses/15-025-game-theory-for-strategic-advantage-spring-2015/3e0fdeab159b3e4f9be66c95a2755d56_MIT15_025S15_ProblemSet1.pdf
 file_size: 148782
 file_type: application/pdf
 learning_resource_types:
