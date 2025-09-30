@@ -25,7 +25,7 @@ READINGS
 Introduction
 {{< tdclose >}}{{< tdopen >}}
 
-Brandenburger, Adam, and Barry Nalebuff. "[The Right Game: Use Game Theory to Shape Strategy](https://hbr.org/1995/07/the-right-game-use-game-theory-to-shape-strategy)." *Harvard Business Review*, July 1995.
+Brandenburger, Adam, and Barry Nalebuff. "{{% resource_link "634d928c-10c3-485c-a24f-1a2f48a684ae" "The Right Game: Use Game Theory to Shape Strategy" %}}." *Harvard Business Review*, July 1995.
 
 Smith, Raymond. "Business as a War Game: A Report from the Battlefront." *Fortune* 134, no. 6 (1996): 190–92.
 
@@ -58,7 +58,7 @@ Nash Equilibrium
 {{< tdclose >}}{{< tdopen >}}
 Application: Strategic Trade Policy
 {{< tdclose >}}{{< tdopen >}}
-Krugman, Paul R. "[Is Free Trade Passé?](http://dx.doi.org/10.1257/jep.1.2.131)" *The Journal of Economic Perspectives* 1, no. 2 (1987): 131–44.
+Krugman, Paul R. "{{% resource_link "59671a3c-4fa9-4a73-86b2-49555f9ea3bd" "Is Free Trade Passé?" %}}" *The Journal of Economic Perspectives* 1, no. 2 (1987): 131–44.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -77,7 +77,7 @@ Backward Induction
 
 Chevalier, Judith. "The Pros and Cons of Entering a Market Surveys Edition," *Financial Times*, November 1, 1999, p. 5.
 
-Lieberman, Marvin B., and David B. Montgomery. "[First-mover Advantages](http://dx.doi.org/10.1002/smj.4250090706)." *Strategic Management Journal* 9, no. S1 (1988): 41–58.
+Lieberman, Marvin B., and David B. Montgomery. "{{% resource_link "9a543a24-5916-44af-ab6d-a31ce3a6423a" "First-mover Advantages" %}}." *Strategic Management Journal* 9, no. S1 (1988): 41–58.
 
 \[DSR\] Chapter 3: Sequential Moves.
 
@@ -87,7 +87,7 @@ Lieberman, Marvin B., and David B. Montgomery. "[First-mover Advantages](http://
 Bargaining
 {{< tdclose >}}{{< tdopen >}}
 
-Michaels, Daniel. ["Dogfight: In the Secret World of Airplane Deals, One Battle Up Close—Boeing, Airbus Vied to Meet Cutthroat Terms of Iberia; Strong Carriers Call Shots—Dangling the Used Car Option," (PDF)](https://maxionline.files.wordpress.com/2010/09/dogfight_boeing-airbus-iberia.pdf) *Wall Street Journal*, March 10, 2003.
+Michaels, Daniel. {{% resource_link "befefcd1-c33b-4f0a-b85a-caf1b97e5845" "\"Dogfight: In the Secret World of Airplane Deals, One Battle Up Close—Boeing, Airbus Vied to Meet Cutthroat Terms of Iberia; Strong Carriers Call Shots—Dangling the Used Car Option,\" (PDF)" %}} *Wall Street Journal*, March 10, 2003.
 
 Brandenburger, and Nalebuff. Chapter 4 in *Co-opetition*. Doubleday Business, 1996, pp. 71–91. ISBN: 9780385479493.
 
@@ -98,7 +98,7 @@ Brandenburger, and Nalebuff. Chapter 4 in *Co-opetition*. Doubleday Business, 19
 {{< tdclose >}}{{< tdopen >}}
 Wars of Attrition
 {{< tdclose >}}{{< tdopen >}}
-Rivkin, Jan W. "[Dogfight over Europe: RyanAir (A)](http://www.hbs.edu/faculty/Pages/item.aspx?num=27241)." Harvard Business School Case: 9–700–115, June 2000.
+Rivkin, Jan W. "{{% resource_link "1bc167eb-677b-4975-8104-361646e0897f" "Dogfight over Europe: RyanAir (A)" %}}." Harvard Business School Case: 9–700–115, June 2000.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
@@ -127,16 +127,16 @@ Garicano, Luis, and Robert Gertner. "The Dynamics of Price Competition," *Financ
 Long-run Relationships
 {{< tdclose >}}{{< tdopen >}}
 
-Milgrom, Paul, and John Roberts. "[Johnson Controls, Inc.—Automotive System Group: The Georgetown, Kentucky Plants](https://www.gsb.stanford.edu/faculty-research/case-studies/johnson-controls-inc-automotive-systems-group-georgetown-kentucky)." Stanford Graduate School of Business Case: BE-9, 1993.
+Milgrom, Paul, and John Roberts. "{{% resource_link "73560503-6fea-4e27-bd39-c79f3484f75f" "Johnson Controls, Inc.—Automotive System Group: The Georgetown, Kentucky Plants" %}}." Stanford Graduate School of Business Case: BE-9, 1993.
 
-Stewart, James. "[Taking the Dare](http://www.newyorker.com/magazine/1993/07/26/taking-the-dare)." *The New Yorker*, July 1993, pp. 34–39.
+Stewart, James. "{{% resource_link "64d6db44-0d15-4133-aa7e-951555006a79" "Taking the Dare" %}}." *The New Yorker*, July 1993, pp. 34–39.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
 Application: Tacit Coordination
 {{< tdclose >}}{{< tdopen >}}
-Porter, Michael E. "[General Electric vs. Westinghouse in Large Turbine Generators (A)](https://hbr.org/product/general-electric-vs-westinghouse-in-large-turbine-generators-a/380128-PDF-ENG)." Harvard Business School Case: 380–128, August 1986.
+Porter, Michael E. "{{% resource_link "b0859640-1c2a-4ccf-b28c-1a08eb85c5a1" "General Electric vs. Westinghouse in Large Turbine Generators (A)" %}}." Harvard Business School Case: 380–128, August 1986.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -155,11 +155,11 @@ Introduction to Auctions
 Online Auctions
 {{< tdclose >}}{{< tdopen >}}
 
-Clifford, Stephanie. "[A Web Shift in the Way Advertisers See Clicks](http://www.nytimes.com/2008/04/21/business/media/21online.html)," *New York Times*, April 21, 2008.
+Clifford, Stephanie. "{{% resource_link "8a56a25e-0291-41d1-878e-e1110e5a19c5" "A Web Shift in the Way Advertisers See Clicks" %}}," *New York Times*, April 21, 2008.
 
 Angwin, Julia. "The Web's New Gold Mine: Your Secrets," *Wall Street Journal*, July 30, 2010.
 
-Singer, Natasha. "[Your Online Attention, Bought in an Instant](http://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html)," *New York Times*, November 17, 2012.
+Singer, Natasha. "{{% resource_link "60faad82-213f-4a53-b080-8d9a45d55c4f" "Your Online Attention, Bought in an Instant" %}}," *New York Times*, November 17, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -167,9 +167,9 @@ Singer, Natasha. "[Your Online Attention, Bought in an Instant](http://www.nytim
 Designing Auctions and Other Markets
 {{< tdclose >}}{{< tdopen >}}
 
-McAfee, R. Preston. "The Greatest Auction in History." In *Better Living through Economics*. Edited by John Siegfried. Harvard University Press, 2012. ISBN: 9780674064126. \[Preview with [Google Books](http://books.google.com/books?id=P_NQcxSw0XQC&pg=PA168#v=onepage)\]
+McAfee, R. Preston. "The Greatest Auction in History." In *Better Living through Economics*. Edited by John Siegfried. Harvard University Press, 2012. ISBN: 9780674064126. \[Preview with {{% resource_link "e9de7dca-e2df-4591-b089-3d5de6d9ee52" "Google Books" %}}\]
 
-Tulis, Tracy. "[How Game Theory Helped Improve New York City's High School Application Process](http://www.nytimes.com/2014/12/07/nyregion/how-game-theory-helped-improve-new-york-city-high-school-application-process.html?_r=0)," *New York Times*, December 5, 2014.
+Tulis, Tracy. "{{% resource_link "7030cc6d-75c6-4e5c-8265-6292524a9350" "How Game Theory Helped Improve New York City's High School Application Process" %}}," *New York Times*, December 5, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
